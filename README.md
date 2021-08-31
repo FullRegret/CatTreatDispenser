@@ -2,10 +2,10 @@
 A 3d-printed cat treat dispenser with Twitch chat connector.
 
 ## Content
-> Arduino holds the source code for the Arduino Uno (many other Arduinos will also work).
-> Compiling holds and exploded and compiled view of the 3d-printed device.
-> Node.js holds the code for the anonymous chat bot that connects to the Arduino Uno.
-> STL holds the stl-files for the 3d-printed device.
+**Arduino** holds the source code for the Arduino Uno (many other Arduinos will also work).  
+**Compiling** holds and exploded and compiled view of the 3d-printed device.  
+**Node.js** holds the code for the anonymous chat bot that connects to the Arduino Uno.  
+**STL** holds the stl-files for the 3d-printed device.
 
 ## Requirements
 * Arduino IDE with Arduino Uno connected

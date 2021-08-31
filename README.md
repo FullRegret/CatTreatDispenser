@@ -1,19 +1,19 @@
 # CatTreatDispenser
 A 3d-printed cat treat dispenser with Twitch chat connector.
 
-# Content
+## Content
 Arduino holds the source code for the Arduino Uno (many other Arduinos will also work).
 Compiling holds and exploded and compiled view of the 3d-printed device.
 Node.js holds the code for the anonymous chat bot that connects to the Arduino Uno.
 STL holds the stl-files for the 3d-printed device.
 
-#Requirements
+## Requirements
 Arduino IDE with Arduino Uno connected
 STL-slicer for your 3d-printer
 Node libraries Serial and tmi
 SG-90 micro servo with jumper leads
 
-#How-To
+## How-To
 Slice the stl-files and print the three components.
 Compile the device and glue it together with epoxy or other strong glue. The hole of the core should be slightly past (higher) than the hole in the base when the micro servo is at 180 degrees.
 Install the node libraries.
